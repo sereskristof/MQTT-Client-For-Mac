@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift Package Manager
+.build/
+.swiftpm/
+# Package.resolved is kept on purpose (reproducible builds)
+
+# Xcode
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+DerivedData/
+build/
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# Certificates, keys and credentials: never commit these
+*.p12
+*.pfx
+*.pem
+*.key
+*.p8
+*.cer
+*.crt
+*.der
+*.mobileprovision
+*.provisionprofile
+.env
+.env.*
+secrets.*
+
+# Exports and local test data
+mqtt-topics.json
+*.log
+
+# Editors
+.vscode/
+.idea/
+*.swp
