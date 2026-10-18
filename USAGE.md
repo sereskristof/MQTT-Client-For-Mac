@@ -1,5 +1,7 @@
 # MQTT Client For Mac – Quick start
 
+![MQTT Client For Mac main window](docs/screenshot.png)
+
 **MQTT Client For Mac** is a simple MQTT client for macOS. Connect to a broker, see every topic in a tree, and publish messages.
 
 ## 1. Connect to your broker
