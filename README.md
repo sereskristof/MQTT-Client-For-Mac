@@ -1,5 +1,7 @@
 # MQTT Client For Mac
 
+![MQTT Client For Mac main window](docs/screenshot.png)
+
 A simple, native MQTT client for Mac with Apple Silicon, written in Swift and SwiftUI.
 Connect to a broker, browse all topics in a tree, watch values change, and publish messages.
 
